@@ -5,7 +5,6 @@ include <../BH-Lib/all.scad>;
 TX_STICK_HEIGHT = 21;
 TX_STICK_RAD = 2;
 TX_STICK_THREAD_DEPTH = 12.5;
-TX_STICK_THREAD_PITCH = THREAD_PITCH_M3_FINE;
 TX_STICK_THREAD_RAD = SCREW_M3_DIM[0] / 2;
 
 TOLERANCE_FIT = 0.125;
@@ -21,7 +20,6 @@ module transmitter_stick(
 		stick_r = TX_STICK_RAD,
 		thread_depth = TX_STICK_THREAD_DEPTH,
 		thread_r = TX_STICK_THREAD_RAD,
-		thread_pitch = TX_STICK_THREAD_PITCH,
 		tolerance_fit = TOLERANCE_FIT,
 		tolerance_clear = TOLERANCE_CLEAR,
 	) {
