@@ -4,7 +4,7 @@ A gamepad style screw-on transmitter stick for 3D printing. They don't look as s
 
 ![Replacement gamepad style transmitter stick](https://github.com/brandonhill/Transmitter-stick/blob/master/img/render.png)
 
-![3D printed replacement transmitter sticks](https://github.com/brandonhill/Transmitter-stick/blob/master/img/prints.png)
+![3D printed replacement transmitter sticks](https://github.com/brandonhill/Transmitter-stick/blob/master/img/prints.jpg)
 
 ## Dependencies
 
